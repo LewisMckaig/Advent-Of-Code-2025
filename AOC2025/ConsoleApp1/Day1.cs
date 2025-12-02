@@ -33,8 +33,6 @@ namespace AOC2025
                 } 
             }
 
-            Console.WriteLine(count);
-
             return count;
         }
 
@@ -92,8 +90,6 @@ namespace AOC2025
 
                 count = count + clicksPastZero;
             }
-
-            Console.WriteLine(count);
 
             return count;
         }
